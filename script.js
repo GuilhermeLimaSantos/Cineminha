@@ -56,7 +56,7 @@ const movies = [
     {
       title: "Guardiões da Galáxia",
       description: "Data de lançamento: 31 de julho de 2014",
-      imageSrc: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzgySgTZJvQl4d7SmLrRVhY3PN-8B8r_2LpWBZe4W5VZySjjxq"
+      imageSrc: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1P_hV6E3_OlEq4MdFMQje5SyBUkAH0JKasP_iVJG4HMT69xn2"
     }
 ];
 
